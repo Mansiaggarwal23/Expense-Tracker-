@@ -1,6 +1,6 @@
 # Expense Tracker
 
-This is the Expense Tracker that will help you to keep a track of your income and expenses.
+This is an Expense Tracker that will help you to keep a track of your income and expenses.
 
 ## Installing
 
