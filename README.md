@@ -13,4 +13,4 @@ npm install
 npm start
 ```
 # Website usable link
-(https://expense-tracker-spendwisely-react.netlify.app/)
+https://expense-tracker-spendwisely-react.netlify.app/
