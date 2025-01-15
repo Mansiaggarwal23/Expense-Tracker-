@@ -5,7 +5,7 @@ This is an Expense Tracker that will help you to keep a track of your income and
 ## Installing
 
 ```bash
-npm install
+npm install / npm i
 ```
 ## Running in App
 
